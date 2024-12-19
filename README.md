@@ -4,4 +4,4 @@ This project uses the AdaFruit_VS1053 Library (https://github.com/adafruit/Adafr
 This project uses the RTClib library (https://github.com/adafruit/RTClib) for the RTC module that codes for the set alarm time
 This was also used for help (https://forum.arduino.cc/t/how-to-use-rtc-for-correcting-stepper-motor-rpm/1206257)
 We used the wheel base from the Detkin lab and used other sensors/materials from the Detkin lab as well as the IPD studio.
-Max, the TAs, other friends, as well as ChatGPT were used to help detect errors in the code and help us fix them.
+Max, the TAs, other friends, as well as ChatGPT were used to help generate and refine our code and debug for errors.
